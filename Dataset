@@ -1,5 +1,1 @@
-The dataset used originates from the Kaggle (Credit Card Fraud Detection, 2018), which is named as Credit Card Fraud Detection dataset, comprising 284,807 transactions made by European cardholders 
-in September 2013. The dataset exhibiting a profound class imbalance with 284,315 legitimate cases (99.83%) and only 492 fraudulent ones (0.17%). It includes 31 attributes, 28 unlabeled features are 
-undisclosed using Principal Component Analysis (PCA) for confidentiality (Kasasbeh et al., 2022b), and 3 labeled features (Time, Amount, Class). The target variable, Class, is a binary indicator where 0 
-signifying a valid transaction and 1 signifying a fraudulent one.
-Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
